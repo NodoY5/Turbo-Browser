@@ -8,14 +8,11 @@
    <strong>Simple</strong> &amp; <strong>Secure</strong> Internet mobile browser built on <a href="https://reactnative.dev/"><strong>React Native</strong></a>
 </h3>
 <h4 align="center">
-  <a href="">Getting Started</a> <span> <strong>·</strong> </span> <a href="https://play.google.com/store/apps/details?id=com.turbo_infinitus">Get it on Google Play</a> <span> <strong>·</strong> </span> <a href="https://turbo-browser.netlify.app/">Visit Website</a>
+  <a href="">Getting Started</a> <span> <strong>·</strong> </span> <a href="https://play.google.com/store/apps/details?id=com.turbo_infinitus">Get it on Google Play</a> <span> <strong>·</strong> </span>
 </h4>
 <p align="center">
   <a target="_blank" href="https://play.google.com/store/apps/details?id=com.turbo_infinitus">
     <img height="38px" src="https://res.cloudinary.com/dpj9ddsjf/image/upload/v1616240506/get-it-on-google-play_ncjdep.svg" alt="Turbo Browser on Google Play" />
-  </a>
-  <a target="_blank" href="https://turbo-browser.netlify.app/">
-    <img height="38px" src="https://res.cloudinary.com/dpj9ddsjf/image/upload/v1616242244/visit-website_axucr8.svg" alt="Turbo Browser website" />
   </a>
 </p>
 <br>
@@ -48,7 +45,7 @@
 </p>
 
 ```  
-git clone https://github.com/codeninja02/Turbo-Browser.git
+git clone https://github.com/NodoY5/Turbo-Browser.git
   
 cd Turbo-Browser
 
@@ -76,27 +73,24 @@ npm run-android
 </h2>
 <p>
     The main purpose of this repository is to continue evolving Turbo Browser as an open source app. We want to make contributing to this project as easy and transparent as possible, and we are grateful to the community for contributing bug fixes and improvements. Read below to learn how you can take part in improving Turbo Browser.<br>
-    See <a href="https://github.com/codeninja02/Turbo-Browser/blob/master/CONTRIBUTING.md">CONTRIBUTING.md</a> for more information.
+    See <a href="https://github.com/NodoY5/Turbo-Browser/blob/master/CONTRIBUTING.md">CONTRIBUTING.md</a> for more information.
 </p>
 
 <h2>
     💻 Author
 </h2>
 
-- [Utsav Prasad](https://github.com/codeninja02)
+- [NodoY5](https://github.com/NodoY5)
 
 <h2>
     🔗 Links
 </h2>
 
 - [Turbo Browser on Google Play Store](https://play.google.com/store/apps/details?id=com.turbo_infinitus)
-- [Website](https://turbo-browser.netlify.app/)
-- [Privacy Policy](https://turbo-browser.netlify.app/privacy-policy.html)
-- [FAQs](https://turbo-browser.netlify.app/help.html)
 
 <h2>
     📄 License
 </h2>
 <p>
-    This project is licensed under the MIT License, see the <a href="https://github.com/codeninja02/Turbo-Browser/blob/master/LICENSE">LICENSE.md</a> file for details.
+    This project is licensed under the MIT License, see the <a href="https://github.com/NodoY5/Turbo-Browser/blob/master/LICENSE">LICENSE.md</a> file for details.
 </p>
